@@ -114,6 +114,8 @@
 -define:ROSLYN_ANALYZER_FIX
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"C:/Apps/Github Desktop/Repositories/Through-the-Wall/Hole in the Wall/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"C:/Apps/Github Desktop/Repositories/Through-the-Wall/Hole in the Wall/Library/PackageCache/com.unity.ide.rider@3.0.25/Rider/Editor/JetBrains.Rider.PathLocator.dll"
 -r:"C:/Apps/UnityHub/2021.3.30f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"C:/Apps/UnityHub/2021.3.30f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/Apps/UnityHub/2021.3.30f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
@@ -328,8 +330,6 @@
 -r:"C:/Apps/UnityHub/2021.3.30f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Transactions.dll"
 -r:"C:/Apps/UnityHub/2021.3.30f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll"
 -r:"C:/Apps/UnityHub/2021.3.30f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll"
--r:"C:/Apps/UnityHub/Projects/Hole in the Wall/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
--r:"C:/Apps/UnityHub/Projects/Hole in the Wall/Library/PackageCache/com.unity.ide.rider@3.0.25/Rider/Editor/JetBrains.Rider.PathLocator.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll"

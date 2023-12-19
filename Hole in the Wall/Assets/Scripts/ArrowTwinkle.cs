@@ -25,7 +25,14 @@ public class ArrowTwinkle : MonoBehaviour
     {
         if (move)
         {
-        transform.Translate(6.5f * Vector3.right);
+            if (name == "Right Trigger" | name == "Front Trigger")
+            {
+                transform.Translate(6.5f * Vector3.right);
+            }
+            else if (name == "Back Trigger")
+            {
+                transform.Translate(transform.position.x * -2, 0, 0);
+            }
         move = false;
         StartCoroutine(ArrowMoveBuffer());
         }

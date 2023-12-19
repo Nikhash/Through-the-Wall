@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Apps\\UnityHub\\Projects\\Hole in the Wall\\Assembly-CSharp.csproj": {}
+    "C:\\Apps\\Github Desktop\\Repositories\\Through-the-Wall\\Hole in the Wall\\Assembly-CSharp.csproj": {}
   },
   "projects": {
-    "C:\\Apps\\UnityHub\\Projects\\Hole in the Wall\\Assembly-CSharp.csproj": {
+    "C:\\Apps\\Github Desktop\\Repositories\\Through-the-Wall\\Hole in the Wall\\Assembly-CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Apps\\UnityHub\\Projects\\Hole in the Wall\\Assembly-CSharp.csproj",
+        "projectUniqueName": "C:\\Apps\\Github Desktop\\Repositories\\Through-the-Wall\\Hole in the Wall\\Assembly-CSharp.csproj",
         "projectName": "Assembly-CSharp",
-        "projectPath": "C:\\Apps\\UnityHub\\Projects\\Hole in the Wall\\Assembly-CSharp.csproj",
+        "projectPath": "C:\\Apps\\Github Desktop\\Repositories\\Through-the-Wall\\Hole in the Wall\\Assembly-CSharp.csproj",
         "packagesPath": "C:\\Users\\nikha\\.nuget\\packages\\",
-        "outputPath": "C:\\Apps\\UnityHub\\Projects\\Hole in the Wall\\obj\\",
+        "outputPath": "C:\\Apps\\Github Desktop\\Repositories\\Through-the-Wall\\Hole in the Wall\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikha\\AppData\\Roaming\\NuGet\\NuGet.Config",
